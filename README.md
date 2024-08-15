@@ -3,5 +3,5 @@
 <code>hello world</code>
 
 ```sh
-npm install -D tailwindcss postcss autoprefixer
+<code>npm install -D tailwindcss postcss autoprefixer </code>
 ```
