@@ -50,7 +50,7 @@ content: ["./src/**/*.{html,js}"],
 If You New With Tailwind
 
 ```sh
-content: ["./*.html"],
+content: ["./index.html"],
 ```
 
 Finally, lets write a script to watch the css file (remember to edit it according to your project's source files and directories)
