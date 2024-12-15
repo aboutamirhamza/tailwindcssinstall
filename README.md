@@ -47,6 +47,11 @@ and then lets modify the `tailwind.config.js` file with the following code (reme
 ```sh
 content: ["./src/**/*.{html,js}"],
 ```
+If You New With Tailwind
+
+```sh
+content: ["./*.html"],
+```
 
 Finally, lets write a script to watch the css file (remember to edit it according to your project's source files and directories)
 
