@@ -12,7 +12,7 @@ Make a `index.html` File
 Make `package.json` file bellow command
 
 ```sh
-npm init
+npm init -y
 ```
 Then Just Enter
 
